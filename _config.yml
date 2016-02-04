@@ -1,0 +1,28 @@
+name: George Matarazzo GmbH
+favicon: null
+layout_spectrum: 0.20694747217930853
+typography_spectrum: 0.5073296329937875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3931567284744233
+  lightness: 0.0380236841738224
+  saturation: 0.6598378911148757
+  rhythmicContrast: 0.19045242224819958
+purpose: []
